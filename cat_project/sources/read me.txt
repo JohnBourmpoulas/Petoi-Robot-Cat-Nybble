@@ -1,0 +1,1 @@
+in the sources folder we can put photos of the faces we want to be recognized.
