@@ -446,4 +446,4 @@ This repository therefore also documents the evolution of the project and the tr
 
 ## License
 
-This project is provided for educational and robotics experimentation purposes.
+This project is licensed under the MIT License. See the `petoi_nybble_ros2/LICENSE` file for details.
