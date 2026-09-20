@@ -1,0 +1,2 @@
+# Non-ROS Python dependency used by camera_node.py
+face_recognition
